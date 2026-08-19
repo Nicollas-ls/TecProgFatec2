@@ -2,4 +2,4 @@
 Meu segundo arquivo de txt
 =======
 alô alõ
->>>>>>> 0ef2d537b2389f7c870cd5345fc1266b638161dc
+
